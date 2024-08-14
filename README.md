@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   <h1>Hi there, I'm Mohammad Husain BaniHani 👋</h1>
-  <img src="https://avatars.githubusercontent.com/u/45740983?v=4" alt="Profile Picture" width="150" align="right"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5608/5608615.png" alt="Profile Picture" width="150" align="right"/>
   <p>
     A passionate <strong>Android Developer</strong> with 4+ years of experience in <strong>Kotlin</strong> and <strong>Android Development</strong>. Specializing in <strong>Kotlin Multiplatform (KMP)</strong> for cross-platform mobile development.
   </p>
